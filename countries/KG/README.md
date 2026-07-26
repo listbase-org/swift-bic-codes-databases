@@ -1,0 +1,78 @@
+# Kyrgyzstan — SWIFT/BIC Codes
+
+26 SWIFT/BIC codes for banks and financial institutions in **Kyrgyzstan** (KG).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../../releases) |
+| **Excel / CSV / PDF** (Kyrgyzstan only) | [listbase.org](https://listbase.org/en/finance/kg-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| KG | AJRAKG22 | AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMA | BISHKEK |  |
+| KG | BBTPKG22 | BAI-TUSHUM BANK CJSC | BISHKEK |  |
+| KG | BAKAKG22 | BAKAI BANK OJSC | BISHKEK |  |
+| KG | ASCJKG22 | BANK OF ASIA CJSC | BISHKEK |  |
+| KG | EIMBKG22 | BTA BANK CJSC (FORMERLY INEXIMBANK CJSC) | BISHKEK |  |
+| KG | ECBIKG22 | CJSC ECOISLAMICBANK | BISHKEK |  |
+| KG | FBANKG22 | CJSC FINCA BANK | BISHKEK |  |
+| KG | DEMIKG22 | DEMIR KYRGYZ INTERNATIONAL BANK | BISHKEK |  |
+| KG | DOSSKG22 | DOS-CREDOBANK OJSC | BISHKEK |  |
+| KG | KYRGKG22 | EURASIAN SAVINGS BANK, OJSC | BISHKEK |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 26 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'KG';
+```
+
+## Stats
+
+- **26** bank records
+- Country: **Kyrgyzstan** (KG)
+
+## Browse & Download
+
+📊 **[Download Kyrgyzstan SWIFT codes as Excel/CSV/PDF](https://listbase.org/en/finance/kg-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](../../) — 112,887 codes across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Banks in Kyrgyzstan (26)
+
+- **AJRAKG22** — AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK) (BISHKEK)
+- **BBTPKG22** — BAI-TUSHUM BANK CJSC (BISHKEK)
+- **BAKAKG22** — BAKAI BANK OJSC (BISHKEK)
+- **ASCJKG22** — BANK OF ASIA CJSC (BISHKEK)
+- **EIMBKG22** — BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG (BISHKEK)
+- **ECBIKG22** — CJSC ECOISLAMICBANK (BISHKEK)
+- **FBANKG22** — CJSC FINCA BANK (BISHKEK)
+- **DEMIKG22** — DEMIR KYRGYZ INTERNATIONAL BANK (BISHKEK)
+- **DOSSKG22** — DOS-CREDOBANK OJSC (BISHKEK)
+- **KYRGKG22** — EURASIAN SAVINGS BANK, OJSC (BISHKEK)
+- **FIKBKG22** — FINANCECREDITBANK KAB (BISHKEK)
+- **IBCHKG22** — INVESTMENT BANK CHANG AN OJSC (BISHKEK)
+- **KOMPKG22** — KOMPANION BANK CLOSED JOINT-STOCK COMPANY (BISHKEK)
+- **KICBKG22** — KYRGYZ INVESTMENT AND CREDIT BANK (BISHKEK)
+- **KSBCKG22** — KYRGYZ-SWISS BANK CJSC (BISHKEK)
+- **NBPAKG22** — NATIONAL BANK OF PAKISTAN BISHKEK BRANCH (BISHKEK)
+- **NBKIKG22** — NATIONAL BANK OF THE KYRGYZ REPUBLIC (BISHKEK)
+- **AIYLKG22** — OJSC AIYL BANK (BISHKEK)
+- **KYRSKG22** — OJSC COMMERCIAL BANK KYRGYZSTAN (BISHKEK)
+- **MAKAKG22** — OJSC HALYK BANK KYRGYZSTAN (BISHKEK)
+- **KAKYKG22** — OJSC KYRGYZKOMMERTSBANK (BISHKEK)
+- **SESVKG22** — OJSC RSK BANK (BISHKEK)
+- **RINBKG22** — OJSC RUSSIAN INVESTMENT BANK (BISHKEK)
+- **ENEJKG22** — OPTIMA BANK OJSC (BISHKEK)
+- **AKILKG22** — THE OPEN JOINT-STOCK COMPANY CAPITAL BANK (BISHKEK)
+- **TOLUKG22** — TOLUBAY BANK - CLOSED JOINT STOCK COMPANY (BISHKEK)

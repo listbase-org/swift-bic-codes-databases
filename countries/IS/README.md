@@ -1,0 +1,86 @@
+# Iceland — SWIFT/BIC Codes
+
+36 SWIFT/BIC codes for banks and financial institutions in **Iceland** (IS).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../../releases) |
+| **Excel / CSV / PDF** (Iceland only) | [listbase.org](https://listbase.org/en/finance/is-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| IS | ESJAISRE | ARION BANK | REYKJAVIK |  |
+| IS | ARNIISR1 | ARTICA FINANCE HF. | KOPAVOGUR |  |
+| IS | AUCAISR1 | AUDUR CAPITAL HF. | REYKJAVIK |  |
+| IS | BORGISRE | BORGUN HF | REYKJAVIK |  |
+| IS | BYSEISR1 | BYR SECURITIES | REYKJAVIK |  |
+| IS | SISLISRETIA | CENTRAL BANK OF ICELAND | REYKJAVIK | (TECHNICAL CODE 1) |
+| IS | SISLISREASA | CENTRAL BANK OF ICELAND | REYKJAVIK | (TECHNICAL CODE 2) |
+| IS | SISLISRE | CENTRAL BANK OF ICELAND | REYKJAVIK |  |
+| IS | EIMIISRE | EIMSKIPAFELAG ISLANDS HF | REYKJAVIK |  |
+| IS | FOMRISR1 | FOSSAR MARKADIR HF | REYKJAVIK |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 36 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'IS';
+```
+
+## Stats
+
+- **36** bank records
+- Country: **Iceland** (IS)
+
+## Browse & Download
+
+📊 **[Download Iceland SWIFT codes as Excel/CSV/PDF](https://listbase.org/en/finance/is-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](../../) — 112,887 codes across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Banks in Iceland (34)
+
+- **ESJAISRE** — ARION BANK (REYKJAVIK)
+- **ARNIISR1** — ARTICA FINANCE HF. (KOPAVOGUR)
+- **AUCAISR1** — AUDUR CAPITAL HF. (REYKJAVIK)
+- **BORGISRE** — BORGUN HF (REYKJAVIK)
+- **BYSEISR1** — BYR SECURITIES (REYKJAVIK)
+- **SISLISRETIA** — CENTRAL BANK OF ICELAND (REYKJAVIK)
+- **EIMIISRE** — EIMSKIPAFELAG ISLANDS HF (REYKJAVIK)
+- **FOMRISR1** — FOSSAR MARKADIR HF (REYKJAVIK)
+- **VERRISR1** — HF VERDBREF (REYKJAVIK)
+- **ICSCISR1** — ICELANDIC SECURITIES LTD. (AKUREYRI)
+- **GLITISRE** — ISLANDSBANKI HF (KOPAVOGUR)
+- **VISLISR1** — ISLANDSBANKI SECURITIES (REYKJAVIK)
+- **ICGIISR1** — ISLANDSPOSTUR HF (REYKJAVIK)
+- **ISFJISR1** — ISLENSKIR FJARFESTAR HF. (REYKJAVIK)
+- **JOKLISR1** — JOKLAR-VERDBREF HF (REYKJAVIK)
+- **MPBAISRE** — KVIKA BANKI HF. (REYKJAVIK)
+- **LASVISR1** — LANASJODUR SVEITARFELAGA (REYKJAVIK)
+- **NBIIISRE** — LANDSBANKINN HF (REYKJAVIK)
+- **XICEISR1** — NASDAQ OMX ICELAND HF (REYKJAVIK)
+- **NARIISR1** — NATIONAL REGISTRY OF ICELAND (REYKJAVIK)
+- **OSSRISR1** — OSSUR HF (REYKJAVIK)
+- **NOVEISR1** — REYKJAVIK CAPITAL HF (REYKJAVIK)
+- **SACVISR1** — SAGA CAPITAL FJARFESTINGARBANKI HF. (AKUREYRI)
+- **SPMYISR1** — SPARISJOOUR MYRASYSLU (BORGARNES)
+- **SPKFISR1** — SPARISJOOURINN I KEFLAVIK (REYKJANESBAE)
+- **SPPHISR1** — SPH (HAFNARFJORDUR)
+- **SPVRISR1** — SPRON VERDBREF HF (REYKJAVIK)
+- **TPLSISR1** — T PLUS (AKUREYRI)
+- **ICSDISR1** — THE ICELANDIC SECURITIES DEPOSITORY LTD. (REYKJAVIK)
+- **TIVEISR1** — TINDAR VERDBREF (REYKJAVIK)
+- **VATOISRE** — VALITOR HF (HAFNARFJORDUR)
+- **VBINISR1** — VBS INVESTMENT BANK (REYKJAVIK)
+- **VIRDISR1** — VIRDING HF. (REYKJAVIK)
+- **VSPVISR1** — VSP (REYKJAVIK)

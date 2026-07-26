@@ -1,0 +1,77 @@
+# Libya — SWIFT/BIC Codes
+
+222 SWIFT/BIC codes for banks and financial institutions in **Libya** (LY).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../../releases) |
+| **Excel / CSV / PDF** (Libya only) | [listbase.org](https://listbase.org/en/finance/ly-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| LY | ALWFLYLT | AL WAFA BANK | TRIPOLI |  |
+| LY | EJABLYLX | ALEJMA&#39;A ALARABI BANK | BENGHAZI |  |
+| LY | WAHALYLX | ALWAHA BANK - TRIPOLI LY | TRIPOLI |  |
+| LY | ABCNLYLT015 | AMAN BANK FOR COMMERCE AND INVESTMENT | BENGHAZI | (BENGHAZI BRANCH) |
+| LY | ABCNLYLT | AMAN BANK FOR COMMERCE AND INVESTMENT | TRIPOLI |  |
+| LY | ABCNLYLT017 | AMAN BANK FOR COMMERCE AND INVESTMENT | TRIPOLI |  |
+| LY | ACOMLYLT | ARAB COMMERCIAL BANK | TRIPOLI |  |
+| LY | ATIBLYLT | ASSARAY TRADE AND INVESTMENT BANK | TRIPOLI |  |
+| LY | CDBLLYLT101 | BANK OF COMMERCE AND DEVELOPMENT (L.J.S. | AL KHUMS | (AL KOMS BRANCH) |
+| LY | CDBLLYLT114 | BANK OF COMMERCE AND DEVELOPMENT (L.J.S. | BENGHAZI | (AL HAWARY) |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 222 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'LY';
+```
+
+## Stats
+
+- **222** bank records
+- Country: **Libya** (LY)
+
+## Browse & Download
+
+📊 **[Download Libya SWIFT codes as Excel/CSV/PDF](https://listbase.org/en/finance/ly-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](../../) — 112,887 codes across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Banks in Libya (25)
+
+- **ALWFLYLT** — AL WAFA BANK (TRIPOLI)
+- **EJABLYLX** — ALEJMA&#39;A ALARABI BANK (BENGHAZI)
+- **WAHALYLX** — ALWAHA BANK - TRIPOLI LY (TRIPOLI)
+- **ABCNLYLT015** — AMAN BANK FOR COMMERCE AND INVESTMENT (BENGHAZI)
+- **ACOMLYLT** — ARAB COMMERCIAL BANK (TRIPOLI)
+- **ATIBLYLT** — ASSARAY TRADE AND INVESTMENT BANK (TRIPOLI)
+- **CDBLLYLT101** — BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.) (AL KHUMS)
+- **BSAHLYLX** — BANQUE SAHELO-SAHARIENNE POUR L&#39;INVESTISSEMENT ET LE COMMERCE (TRIPOLI) (TRIPOLI)
+- **CBLJLYLX001** — CENTRAL BANK OF LIBYA (BENGHAZI)
+- **DEVOLYLT** — DEVELOPMENT BANK (TRIPOLI)
+- **FGBLLYLT** — FIRST GULF LIBYAN BANK (TRIPOLI)
+- **GNMTLYL1** — GENERAL NATIONAL MARITIME TRANSPORT COMPANY (TRIPOLI)
+- **JAMBLYLT036** — JUMHOURIA BANK (AJELAT)
+- **LAFBLYLT** — LIBYAN FOREIGN BANK (TRIPOLI)
+- **LIATLYLT** — LIBYAN INVESTMENT AUTHORITY (TRIPOLI)
+- **LYIBLYLT002** — LIBYAN ISLAMIC BANK COMPANY JSC (TRIPOLI)
+- **MOOCLYLT** — MABRUK OIL OPERATION (TRIPOLI)
+- **METILYLT** — MEDITERRANEAN BANK (BENGHAZI)
+- **LNCBLYLT117** — NATIONAL COMMERCIAL BANK (AJDABIA)
+- **NABLLYLXTIP** — NORTH AFRICA BANK (TRIPOLI)
+- **NUBKLYLT** — NURAN BANK (TRIPOLI)
+- **SABKLYLXBEN** — SAHARA BANK (BENGHAZI)
+- **UNCNLYLT** — UNITED BANK FOR COMMERCE AND INVESTMENT (TRIPOLI)
+- **WOCMLYL1** — WAHA OIL COMPANY (TRIPOLI)
+- **WAHBLYLX041** — WAHDA BANK (AJDABIA)

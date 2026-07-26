@@ -1,0 +1,79 @@
+# Virgin Islands (British) — SWIFT/BIC Codes
+
+28 SWIFT/BIC codes for banks and financial institutions in **Virgin Islands (British)** (VG).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../../releases) |
+| **Excel / CSV / PDF** (Virgin Islands (British) only) | [listbase.org](https://listbase.org/en/finance/vg-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| VG | ABVIVGVG | BANK OF ASIA (BVI) LIMITED | TORTOLA |  |
+| VG | BEVCVGV1 | BEVCO LIMITED | TORTOLA |  |
+| VG | BEVCVGV1BEV | BEVCO LIMITED | TORTOLA |  |
+| VG | BCCLVGV1 | BURSATIL CLEARING CORPORATION LIMITED | TORTOLA |  |
+| VG | CACFVGV1 | CARLSSON CURRENCY FUND LIMITED | ROADTOWN |  |
+| VG | CHGLVGVG | CHALHOUB GROUP LIMITED | TORTOLA |  |
+| VG | CHNIVGV1 | CHEMIUM INTERNATIONAL CORP. | TORTOLA |  |
+| VG | CBMBVGV1 | CIMB LIMITED | TORTOLA |  |
+| VG | SHILVGV1 | DE SHAW INTERNATIONAL | TORTOLA |  |
+| VG | EUCTVGV1 | EUROWIRE CLEARING CORPORATION | ROADTOWN |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 28 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'VG';
+```
+
+## Stats
+
+- **28** bank records
+- Country: **Virgin Islands (British)** (VG)
+
+## Browse & Download
+
+📊 **[Download Virgin Islands (British) SWIFT codes as Excel/CSV/PDF](https://listbase.org/en/finance/vg-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](../../) — 112,887 codes across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Banks in Virgin Islands (British) (27)
+
+- **ABVIVGVG** — BANK OF ASIA (BVI) LIMITED (TORTOLA)
+- **BEVCVGV1** — BEVCO LIMITED (TORTOLA)
+- **BCCLVGV1** — BURSATIL CLEARING CORPORATION LIMITED (TORTOLA)
+- **CACFVGV1** — CARLSSON CURRENCY FUND LIMITED (ROADTOWN)
+- **CHGLVGVG** — CHALHOUB GROUP LIMITED (TORTOLA)
+- **CHNIVGV1** — CHEMIUM INTERNATIONAL CORP. (TORTOLA)
+- **CBMBVGV1** — CIMB LIMITED (TORTOLA)
+- **SHILVGV1** — DE SHAW INTERNATIONAL (TORTOLA)
+- **EUCTVGV1** — EUROWIRE CLEARING CORPORATION (ROADTOWN)
+- **EVCMVGV1** — EVERYOUNG CAPITAL MANAGEMENT LIMITED (TORTOLA)
+- **FCIBVGVG** — FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD (TORTOLA)
+- **BEXGVGVG** — GORDEL HOLDINGS LIMITED (TORTOLA)
+- **IBIFVGV1** — IBIS INTERNATIONAL FUND LIMITED (TORTOLA)
+- **IFXGVGV1** — IFXBG LIMITED (ROADTOWN)
+- **IOVSVGV1** — ION VOLIUM STRATEGY LIMITED (ROADTOWN)
+- **LAMFVGV1** — LIM ASIA MULTI-STRATEGY FUND INC. (ROADTOWN)
+- **LAPTVGV1** — LIM ASIA SPECIAL SITUATIONS MASTER FUND LIMITED (ROADTOWN)
+- **MVOCVGV1** — MVM OVERSEAS CAPITAL LTD (ROADTOWN)
+- **OUCAVGV1** — OURINVEST CAPITAL INC (TORTOLA)
+- **PAIEVGV1** — PACIFIC ALLIANCE INVESTMENT MANAGEMENT LIMITED (TORTOLA)
+- **PACGVGV1** — PACIFIC CAPITAL GROUP LIMITED (TORTOLA)
+- **PYMAVGV1** — PYRRHO MANAGEMENT LIMITED (TORTOLA)
+- **QUAAVGV1** — QUANT ASSET MANAGEMENT (TORTOLA)
+- **RAMBVGV1** — RAMBURS INC (TORTOLA)
+- **NOSCVGVG** — SCOTIABANK (BRITISH VIRGIN ISLANDS) LTD. (TORTOLA)
+- **VSAMVGV1** — VALUE STAR ASSET MANAGEMENT (TORTOLA)
+- **VPBVVGV1** — VP BANK (BVI) LTD (TORTOLA)

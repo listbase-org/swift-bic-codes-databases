@@ -1,0 +1,74 @@
+# Botswana — SWIFT/BIC Codes
+
+46 SWIFT/BIC codes for banks and financial institutions in **Botswana** (BW).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../../releases) |
+| **Excel / CSV / PDF** (Botswana only) | [listbase.org](https://listbase.org/en/finance/bw-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| BW | FMBZBWGA | AFRICAN BANKING CORPORATION OF BOTSWANA  | GABORONE |  |
+| BW | BGLIBWGX | BANK GABORONE LIMITED | GABORONE |  |
+| BW | BARBBWGX | BANK OF BARODA (BOTSWANA) LIMITED | GABORONE |  |
+| BW | BBOTBWGX | BANK OF BOTSWANA | GABORONE |  |
+| BW | BKIDBWGX | BANK OF INDIA (BOTSWANA) LIMITED | GABORONE |  |
+| BW | BARCBWGX | BARCLAYS BANK OF BOTSWANA LTD. | GABORONE |  |
+| BW | XBOTBWG1 | BOTSWANA STOCK EXCHANGE | GABORONE |  |
+| BW | BATSBW21 | BRITISH AMERICAN TOBACCO BOTSWANA (PTY)  | GABORONE |  |
+| BW | CAPLBWGA | CAPITAL BANK LIMITED | GABORONE |  |
+| BW | CSERBWG1 | CAPITAL SECURITIES | GABORONE |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 46 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'BW';
+```
+
+## Stats
+
+- **46** bank records
+- Country: **Botswana** (BW)
+
+## Browse & Download
+
+📊 **[Download Botswana SWIFT codes as Excel/CSV/PDF](https://listbase.org/en/finance/bw-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](../../) — 112,887 codes across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Banks in Botswana (22)
+
+- **FMBZBWGA** — AFRICAN BANKING CORPORATION OF BOTSWANA (PROPRIETARY) LIMITED (GABORONE)
+- **BGLIBWGX** — BANK GABORONE LIMITED (GABORONE)
+- **BARBBWGX** — BANK OF BARODA (BOTSWANA) LIMITED (GABORONE)
+- **BBOTBWGX** — BANK OF BOTSWANA (GABORONE)
+- **BKIDBWGX** — BANK OF INDIA (BOTSWANA) LIMITED (GABORONE)
+- **BARCBWGX** — BARCLAYS BANK OF BOTSWANA LTD. (GABORONE)
+- **XBOTBWG1** — BOTSWANA STOCK EXCHANGE (GABORONE)
+- **BATSBW21** — BRITISH AMERICAN TOBACCO BOTSWANA (PTY) LIMITED (GABORONE)
+- **CAPLBWGA** — CAPITAL BANK LIMITED (GABORONE)
+- **CSERBWG1** — CAPITAL SECURITIES (GABORONE)
+- **DDCOBWGA** — DEBSWANA DIAMOND COMPANY (PTY) LTD (GABORONE)
+- **FIRNBWGXCUS** — FIRST NATIONAL BANK OF BOTSWANA LIMITED (GABORONE)
+- **FXAFBWG1** — FX AFRICA (BOTSWANA) PTY LTD (GABORONE)
+- **ISBTBWG1** — INVESTEC SECURITIES (BOTSWANA) (PTY) LTD (GABORONE)
+- **MOSYBWG1** — MOTSWEDI SECURITIES (PTY) LTD. (GABORONE)
+- **DNABBWG10BF** — NATIONAL DEVELOPMENT BANK (FRANCISTOWN)
+- **PCPYBWG1** — PAA CAPITAL PTY LTD (GABORONE)
+- **SABMBWG1** — SABMILLER BOTSWANA (GABORONE)
+- **SBICBWGX** — STANBIC BANK BOTSWANA LIMITED (GABORONE)
+- **SCHBBWGX017** — STANDARD CHARTERED BANK BOTSWANA LTD. (FRANCISTOWN)
+- **SBINBWGX** — STATE BANK OF INDIA (BOTSWANA) LTD (GABORONE)
+- **STOOBWG1** — STOCKBROKERS BOTSWANA LTD. (GABORONE)
