@@ -1,0 +1,82 @@
+# Macao — SWIFT/BIC Codes Database
+
+33 records for **Macao** (MO).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Macao only) | [listbase.org](https://listbase.org/en/finance/mo-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| MO | MFAMMOMX | AUTORIDADE MONETARIA DE MACAU | MACAU |  |
+| MO | CMACMOMX | BANCO COMERCIAL DE MACAU, S.A. | MACAU |  |
+| MO | BCOMMOMX | BANCO COMMERCIAL PORTUGUES | MACAU |  |
+| MO | DABGMOMX | BANCO DELTA ASIA S.A. | MACAU |  |
+| MO | BNULMOMX | BANCO NACIONAL ULTRAMARINO, SA | MACAU |  |
+| MO | BESCMOMX | BANCO WELL LINK, S.A. | MACAU |  |
+| MO | BKCHMOMX868 | BANK OF CHINA, MACAU BRANCH | MACAU | (RENMINBI CLEARING CENTRE) |
+| MO | BKCHMOMX | BANK OF CHINA, MACAU BRANCH | MACAU |  |
+| MO | COMMMOMX | BANK OF COMMUNICATIONS CO.,LTD. MACAU BR | MACAU |  |
+| MO | SINOMOMX | BANK SINOPAC (FORMERLY INT&#39;L BANK OF TAI | MACAU |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 33 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'MO';
+```
+
+## Stats
+
+- **33** records
+- Country: **Macao** (MO)
+
+## Browse & Download
+
+📊 **[Download Macao data as Excel/CSV/PDF](https://listbase.org/en/finance/mo-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (30)
+
+- **AUTORIDADE MONETARIA DE MACAU** — MACAU
+- **BANCO COMERCIAL DE MACAU, S.A.** — MACAU
+- **BANCO COMMERCIAL PORTUGUES** — MACAU
+- **BANCO DELTA ASIA S.A.** — MACAU
+- **BANCO NACIONAL ULTRAMARINO, SA** — MACAU
+- **BANCO WELL LINK, S.A.** — MACAU
+- **BANK OF CHINA, MACAU BRANCH** — MACAU
+- **BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH** — MACAU
+- **BANK SINOPAC (FORMERLY INT&#39;L BANK OF TAIPEI)** — MACAU
+- **CAIXA ECONOMICA POSTAL** — MACAU
+- **CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU** — MACAU
+- **CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH** — MACAU
+- **CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH** — MACAU
+- **CHINA GUANGFA BANK CO., LTD MACAU BRANCH** — MACAU
+- **CHONG HING BANK LIMITED MACAU BRANCH** — MACAU
+- **CITIBANK NA, MACAU** — MACAU
+- **DBS BANK (HONG KONG) LIMITED, MACAU BRANCH** — MACAU
+- **DEUTSCHE BANK AG** — MACAU
+- **FIRST COMMERCIAL BANK, MACAU BRANCH** — MACAU
+- **HANG SENG BANK LIMITED,MACAU BRANCH** — MACAU
+- **HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH** — MACAU
+- **INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED** — MACAU
+- **LUSO INTERNATIONAL BANKING LTD.** — MACAU
+- **OCBC WING HANG BANK LIMITED** — MACAU
+- **STANDARD CHARTERED BANK** — MACAU
+- **TAI FUNG BANK LIMITED** — MACAU
+- **THE BANK OF EAST ASIA,LIMITED MACAU BRANCH** — MACAU
+- **THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED** — MACAU
+- **THE MACAU CHINESE BANK LIMITED** — MACAU
+- **WING LUNG BANK LIMITED MACAU BRANCH** — MACAU

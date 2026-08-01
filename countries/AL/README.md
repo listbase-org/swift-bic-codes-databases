@@ -1,0 +1,90 @@
+# Albania — SWIFT/BIC Codes Database
+
+45 records for **Albania** (AL).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Albania only) | [listbase.org](https://listbase.org/en/finance/al-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| AL | AKIVALTR | AK-INVEST JOINT STOCK COMPANY | TIRANA |  |
+| AL | CRBAALTR | ALPHA BANK ALBANIA | TIRANA |  |
+| AL | EMPOALTR | AMERICAN BANK OF INVESTMENTS S.A. | TIRANA |  |
+| AL | STANALT1ELX | BANK OF ALBANIA | ELBASAN | (DEGA ELBASAN) |
+| AL | STANALT1GJX | BANK OF ALBANIA | GJIROKASTRA | (DEGA GJIROKASTRA) |
+| AL | STANALT1KOX | BANK OF ALBANIA | KORCE | (DEGA KORCA) |
+| AL | STANALT1LUX | BANK OF ALBANIA | LUSHNJE | (DEGA LUSHNJA) |
+| AL | STANALT1SHX | BANK OF ALBANIA | SHKODER | (DEGA SHKODRA) |
+| AL | STANALT1SPX | BANK OF ALBANIA | TIRANA | (SPORTELI I BONOVE TE THESARIT BSH) |
+| AL | STANALTR | BANK OF ALBANIA | TIRANA |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 45 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'AL';
+```
+
+## Stats
+
+- **45** records
+- Country: **Albania** (AL)
+
+## Browse & Download
+
+📊 **[Download Albania data as Excel/CSV/PDF](https://listbase.org/en/finance/al-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (38)
+
+- **AK-INVEST JOINT STOCK COMPANY** — TIRANA
+- **ALPHA BANK ALBANIA** — TIRANA
+- **AMERICAN BANK OF INVESTMENTS S.A.** — TIRANA
+- **BANK OF ALBANIA** — ELBASAN
+- **BANK OF ALBANIA** — GJIROKASTRA
+- **BANK OF ALBANIA** — KORCE
+- **BANK OF ALBANIA** — LUSHNJE
+- **BANK OF ALBANIA** — SHKODER
+- **BANK OF ALBANIA** — TIRANA
+- **BANKA KOMBETARE TREGTARE SH.A.** — TIRANA
+- **BANKA NBG ALBANIA SH.A.** — TIRANA
+- **BANKA SOCIETE GENERALE ALBANIA** — TIRANA
+- **BRITISH AMERICAN TOBACCO - ALBANIA SH.P.K.** — TIRANA
+- **CREDINS BANK S.A.** — TIRANA
+- **CREDIT BANK OF ALBANIA** — TIRANA
+- **FIRST INVESTMENT BANK-ALBANIA SH.A** — TIRANA
+- **INTERNATIONAL COMMERCIAL BANK** — TIRANA
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — DURRES
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — ELBASAN
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — FIER
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — GJIROKASTRA
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — KAVAJE
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — KORCE
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — LEZHE
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — LUSHNJE
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — SHKODER
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — TIRANA
+- **INTESA SANPAOLO BANK ALBANIA SH.A.** — VLORE
+- **MINISTRY OF FINANCE OF ALBANIA** — TIRANA
+- **POSTA SHQIPTARE SH.A.** — TIRANA
+- **PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)** — DURRES
+- **PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)** — FIER
+- **PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)** — TIRANA
+- **RAIFFEISEN BANK SH.A.** — TIRANA
+- **TIRANA BANK** — TIRANA
+- **UNION BANK SH.A.** — TIRANA
+- **UNITED BANK OF ALBANIA SH.A** — TIRANA
+- **VENETO BANKA SH.A** — TIRANA

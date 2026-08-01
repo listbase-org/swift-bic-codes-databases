@@ -1,0 +1,100 @@
+# Georgia — SWIFT/BIC Codes Database
+
+65 records for **Georgia** (GE).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Georgia only) | [listbase.org](https://listbase.org/en/finance/ge-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| GE | CBASGE22 | BASISBANK, JSC | TBILISI |  |
+| GE | BATSGE21 | BRITISH AMERICAN TOBACCO GEORGIA LIMITED | TBILISI |  |
+| GE | BSDAGE21 | BSDBANK | SUKHUM |  |
+| GE | FGEOGE22 | FINCA BANK GEORGIA JSC | TBILISI |  |
+| GE | GTJSGE21 | GALT AND TAGGART (JSC) SECURITIES | TBILISI |  |
+| GE | GEIGGE21 | GEORGIAN INVESTMENT GROUP | TBILISI |  |
+| GE | HABGGE22 | HALYK BANK GEORGIA JSC | TBILISI |  |
+| GE | IBAZGE22 | INTERNATIONAL BANK OF AZERBAIJAN-GEORGIA | TBILISI |  |
+| GE | ITFVGE21 | INTERNATIONAL FINANCIAL SERVICES LTD | TBILISI |  |
+| GE | BAGAGE22CUS | JSC BANK OF GEORGIA | TBILISI | (CUSTODY SERVICES) |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 65 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'GE';
+```
+
+## Stats
+
+- **65** records
+- Country: **Georgia** (GE)
+
+## Browse & Download
+
+📊 **[Download Georgia data as Excel/CSV/PDF](https://listbase.org/en/finance/ge-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (48)
+
+- **BASISBANK, JSC** — TBILISI
+- **BRITISH AMERICAN TOBACCO GEORGIA LIMITED** — TBILISI
+- **BSDBANK** — SUKHUM
+- **FINCA BANK GEORGIA JSC** — TBILISI
+- **GALT AND TAGGART (JSC) SECURITIES** — TBILISI
+- **GEORGIAN INVESTMENT GROUP** — TBILISI
+- **HALYK BANK GEORGIA JSC** — TBILISI
+- **INTERNATIONAL BANK OF AZERBAIJAN-GEORGIA** — TBILISI
+- **INTERNATIONAL FINANCIAL SERVICES LTD** — TBILISI
+- **JSC &#39;CARTU BANK&#39;** — BATUMI
+- **JSC &#39;CARTU BANK&#39;** — KUTAISI
+- **JSC &#39;CARTU BANK&#39;** — TBILISI
+- **JSC &#39;LIBERTY BANK&#39;** — TBILISI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — AKHALTSIKHE
+- **JSC &#39;VTB BANK GEORGIA&#39;** — BATUMI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — GARDABANI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — GORI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — GURJAANI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — KUTAISI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — MARNEULI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — OZURGETI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — POTI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — RUSTAVI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — TBILISI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — TELAVI
+- **JSC &#39;VTB BANK GEORGIA&#39;** — ZUGDIDI
+- **JSC BANK OF GEORGIA** — TBILISI
+- **JSC CAUCASUS TRUST BANKERS** — TBILISI
+- **JSC CREDO BANK** — TBILISI
+- **JSC ISBANK GEORGIA** — TBILISI
+- **JSC PASHA BANK GEORGIA** — TBILISI
+- **JSC TERABANK** — TBILISI
+- **JSC ZIRAAT BANK GEORGIA** — TBILISI
+- **LLC MFO IMPERIAL CREDIT** — TBILISI
+- **MFO INTEL EXPRESS GEORGIA LTD** — TBILISI
+- **NATIONAL BANK OF GEORGIA** — TBILISI
+- **PROCREDIT BANK, GEORGIA** — TBILISI
+- **RUSSIAN-GEORGIAN BANK OF RECONSTRUCTION AND DEVELOPMENT** — TBILISI
+- **SAINT GEORGE BANKERS AND TRUST LLC** — TBILISI
+- **SILK ROAD BANK JSC** — TBILISI
+- **TBC BANK** — BATUMI
+- **TBC BANK** — BORJOMI
+- **TBC BANK** — KUTAISI
+- **TBC BANK** — POTI
+- **TBC BANK** — RUSTAVI
+- **TBC BANK** — TBILISI
+- **TBC BANK** — TELAVI
+- **TREASURY SERVICE MINISTRY OF FINANCE OF GEORGIA** — TBILISI

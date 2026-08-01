@@ -1,0 +1,71 @@
+# Congo — SWIFT/BIC Codes Database
+
+19 records for **Congo** (CG).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Congo only) | [listbase.org](https://listbase.org/en/finance/cg-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| CG | CBEBCGC1 | BANQUE COMMERCIALE CONGOLAISE | POINTE-NOIRE |  |
+| CG | BCBPCGCG | BANQUE COMMERCIALE INTERNATIONALE (EX CO | BRAZZAVILLE |  |
+| CG | BCBPCGCG001 | BANQUE COMMERCIALE INTERNATIONALE (EX CO | POINTE-NOIRE |  |
+| CG | BCHCCGCG | BANQUE CONGOLAISE DE L&#39;HABITAT | BRAZZAVILLE |  |
+| CG | BDEACGCG | BANQUE DE DEVELOPPEMENT DES ETATS DE L&#39;A | BRAZZAVILLE |  |
+| CG | BEACCGCG | BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D | BRAZZAVILLE |  |
+| CG | BEACCGCGALL | BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D | OUESSO |  |
+| CG | BEACCGCG410 | BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D | POINTE-NOIRE | (AGENCE DE POINTE-NOIRE) |
+| CG | BESCCGCG | BANQUE ESPIRITO SANTO CONGO | BRAZZAVILLE |  |
+| CG | CONICGC1 | BANQUE INTERNATIONALE DU CONGO | BRAZZAVILLE |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 19 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'CG';
+```
+
+## Stats
+
+- **19** records
+- Country: **Congo** (CG)
+
+## Browse & Download
+
+📊 **[Download Congo data as Excel/CSV/PDF](https://listbase.org/en/finance/cg-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (19)
+
+- **BANQUE COMMERCIALE CONGOLAISE** — POINTE-NOIRE
+- **BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)** — BRAZZAVILLE
+- **BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)** — POINTE-NOIRE
+- **BANQUE CONGOLAISE DE L&#39;HABITAT** — BRAZZAVILLE
+- **BANQUE DE DEVELOPPEMENT DES ETATS DE L&#39;AFRIQUE CENTRALE (BDEAC)** — BRAZZAVILLE
+- **BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D.N. CONGO** — BRAZZAVILLE
+- **BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D.N. CONGO** — OUESSO
+- **BANQUE DES ETATS DE L&#39;AFRIQUE CENTRALE D.N. CONGO** — POINTE-NOIRE
+- **BANQUE ESPIRITO SANTO CONGO** — BRAZZAVILLE
+- **BANQUE INTERNATIONALE DU CONGO** — BRAZZAVILLE
+- **BANQUE INTERNATIONALE DU CONGO** — POINTE-NOIRE
+- **BANQUE POSTALE DU CONGO** — BRAZZAVILLE
+- **BANQUE SINO-CONGOLAISE POUR L&#39;AFRIQUE** — BRAZZAVILLE
+- **BGFIBANK CONGO** — BRAZZAVILLE
+- **CREDIT DU CONGO** — POINTE-NOIRE
+- **ECOBANK CONGO** — BRAZZAVILLE
+- **LA CONGOLAISE DE BANQUE (LCB)** — BRAZZAVILLE
+- **SOCIETE GENERALE CONGO** — BRAZZAVILLE
+- **UNITED BANK FOR AFRICA, CONGO BRAZZ** — BRAZZAVILLE

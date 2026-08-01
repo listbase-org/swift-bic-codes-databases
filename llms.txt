@@ -1,0 +1,34 @@
+# SWIFT/BIC Codes Database
+
+> SWIFT/BIC codes for banks and financial institutions worldwide. 232 countries, 112,000+ records.
+
+This repository contains a database of swift/bic codes database covering 232 countries with 112,887 records.
+
+## Available Formats
+
+- SQLite database (.db) — ready to query
+- SQL dump (.sql) — import into MySQL, PostgreSQL, MariaDB, etc.
+- Excel, CSV, PDF — available at https://listbase.org
+
+## Data Structure
+
+Table: `swift_codes`
+- `country_code` (TEXT NOT NULL)
+- `swift_code` (TEXT NOT NULL)
+- `bank` (TEXT)
+- `city` (TEXT)
+- `branch` (TEXT)
+
+## Download
+
+- GitHub Releases: https://github.com/listbase-org/swift-bic-codes-databases/releases
+- Excel/CSV/PDF: https://listbase.org/en/finance/
+
+## License
+
+MIT — Free to use for any purpose.
+
+## About
+
+Maintained by ListBase.org — Free Reference Tables & Lists
+Website: https://listbase.org

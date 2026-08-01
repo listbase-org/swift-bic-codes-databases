@@ -1,0 +1,90 @@
+# Angola — SWIFT/BIC Codes Database
+
+41 records for **Angola** (AO).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Angola only) | [listbase.org](https://listbase.org/en/finance/ao-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| AO | BAIPAOLU | BANCO ANGOLANO DE INVESTIMENTOS, SA | LUANDA |  |
+| AO | ANCEAOLU | BANCO ANGOLANO NEGOCIOS E COMERCIO | LUANDA |  |
+| AO | BCCBAOLU | BANCO BIC, S.A. | LUANDA |  |
+| AO | BCGAAOLU | BANCO CAIXA GERAL DE ANGOLA | LUANDA |  |
+| AO | COMLAOLU | BANCO COMERCIAL ANGOLANO | LUANDA |  |
+| AO | BCHUAOLU | BANCO COMERCIAL DO HUAMBO | HUAMBO |  |
+| AO | BDAAAOLU | BANCO DE DESENVOLVIMENTO DE ANGOLA | LUANDA |  |
+| AO | BFABAOL1 | BANCO DE FOMENTO ANGOLA SA | LUANDA |  |
+| AO | BFMXAOLU | BANCO DE FOMENTO SARL ANGOLA | LUANDA |  |
+| AO | BIRVAOLU | BANCO DE INVESTIMENTO RURAL, S.A. | MALANJE |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 41 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'AO';
+```
+
+## Stats
+
+- **41** records
+- Country: **Angola** (AO)
+
+## Browse & Download
+
+📊 **[Download Angola data as Excel/CSV/PDF](https://listbase.org/en/finance/ao-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (38)
+
+- **BANCO ANGOLANO DE INVESTIMENTOS, SA** — LUANDA
+- **BANCO ANGOLANO NEGOCIOS E COMERCIO** — LUANDA
+- **BANCO BIC, S.A.** — LUANDA
+- **BANCO CAIXA GERAL DE ANGOLA** — LUANDA
+- **BANCO COMERCIAL ANGOLANO** — LUANDA
+- **BANCO COMERCIAL DO HUAMBO** — HUAMBO
+- **BANCO DE DESENVOLVIMENTO DE ANGOLA** — LUANDA
+- **BANCO DE FOMENTO ANGOLA SA** — LUANDA
+- **BANCO DE FOMENTO SARL ANGOLA** — LUANDA
+- **BANCO DE INVESTIMENTO RURAL, S.A.** — MALANJE
+- **BANCO DE NEGOCIOS INTERNACIONAL** — LUANDA
+- **BANCO DE POUPANCA E CREDITO SARL** — LUANDA
+- **BANCO ECONOMICO, S.A.** — LUANDA
+- **BANCO KWANZA INVEST SA** — LUANDA
+- **BANCO MILLENNIUM ATLANTICO, S.A. (FORMERLY BANCO MILLENNIUM ANGOLA SA)** — LUANDA
+- **BANCO MILLENNIUM ATLANTICO, S.A.** — LUANDA
+- **BANCO NACIONAL DE ANGOLA** — LUANDA
+- **BANCO POSTAL, S.A.** — LUANDA
+- **BANCO PRESTIGIO, SA.** — LUANDA
+- **BANCO PUNGO ANDONGO SA** — LUANDA
+- **BANCO REGIONAL DO KEVE, SARL** — LUANDA
+- **BANCO SOL SARL** — LUANDA
+- **BANCO VALOR BANK** — LUANDA
+- **BANCO VTB AFRICA, S.A.** — LUANDA
+- **BANCO YETU, S.A.** — LUANDA
+- **BANK OF CHINA LIMITED LUANDA BRANCH** — LUANDA
+- **BCI - BANCO DE COMERCIO E INDUSTRIA** — LUANDA
+- **BMF-BANCO BAI MICROFINANCAS, SARL** — LUANDA
+- **BOLSA DE DIVIDA E VALORES DE ANGOLA BODIVA SOCIEDADE GESTORA DE MERCADOS REGULAMENTADOS SA** — LUANDA
+- **BPC-BANCO DE POUPANCA E CREDITO** — LUANDA
+- **BRITISH AMERICAN TOBACCO ANGOLA LTD** — LUANDA
+- **CREDISUL - BANCO DE CREDITO DO SUL SA** — LUANDA
+- **FINIBANCO ANGOLA S.A** — LUANDA
+- **MINISTERIO DAS FINANCAS** — LUANDA
+- **SOCIEDADA INDUSTRIAL TABACOS ANGOLA LDA** — BENGUELA
+- **SOCIEDADE UNIFICANDA TABACOS ANGOLA LDA** — LUANDA
+- **STANDARD BANK DE ANGOLA S.A.** — LUANDA
+- **STANDARD CHARTERED BANK ANGOLA SA** — LUANDA

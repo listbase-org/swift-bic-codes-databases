@@ -1,0 +1,85 @@
+# Nepal — SWIFT/BIC Codes Database
+
+36 records for **Nepal** (NP).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Nepal only) | [listbase.org](https://listbase.org/en/finance/np-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| NP | ADBLNPKA | AGRICULTURAL DEVELOPMENT BANK LTD | KATHMANDU |  |
+| NP | BOKLNPKA | BANK OF KATHMANDU LIMITED | KATHMANDU |  |
+| NP | CCBNNPKA | CENTURY COMMERCIAL BANK LIMITED | KATHMANDU |  |
+| NP | CITINPK1 | CITIBANK N. A. | KATHMANDU |  |
+| NP | CTZNNPKA | CITIZENS BANK INTERNATIONAL LIMITED | KATHMANDU |  |
+| NP | CIVLNPKA | CIVIL BANK LIMITED | KATHMANDU |  |
+| NP | EVBLNPKA | EVEREST BANK LTD. | KATHMANDU |  |
+| NP | GLBBNPKA | GLOBAL IME BANK LIMITED | KATHMANDU |  |
+| NP | HIMANPKA | HIMALAYAN BANK LTD. | KATHMANDU |  |
+| NP | JBNLNPKA | JANATA BANK NEPAL LIMITED | KATHMANDU |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 36 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'NP';
+```
+
+## Stats
+
+- **36** records
+- Country: **Nepal** (NP)
+
+## Browse & Download
+
+📊 **[Download Nepal data as Excel/CSV/PDF](https://listbase.org/en/finance/np-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (33)
+
+- **AGRICULTURAL DEVELOPMENT BANK LTD** — KATHMANDU
+- **BANK OF KATHMANDU LIMITED** — KATHMANDU
+- **CENTURY COMMERCIAL BANK LIMITED** — KATHMANDU
+- **CITIBANK N. A.** — KATHMANDU
+- **CITIZENS BANK INTERNATIONAL LIMITED** — KATHMANDU
+- **CIVIL BANK LIMITED** — KATHMANDU
+- **EVEREST BANK LTD.** — KATHMANDU
+- **GLOBAL IME BANK LIMITED** — KATHMANDU
+- **HIMALAYAN BANK LTD.** — KATHMANDU
+- **JANATA BANK NEPAL LIMITED** — KATHMANDU
+- **KASTHAMANDAP DEVELOPMENT BANK LTD** — KATHMANDU
+- **KUMARI BANK LTD** — KATHMANDU
+- **LAXMI BANK LIMITED** — KATHMANDU
+- **MACHHAPUCHCHHRE BANK LIMITED** — KATHMANDU
+- **MEGA BANK NEPAL LIMITED** — KATHMANDU
+- **NABIL BANK LIMITED** — KATHMANDU
+- **NEPAL BANGLADESH BANK LIMITED** — KATHMANDU
+- **NEPAL BANK LIMITED** — KATHMANDU
+- **NEPAL CREDIT AND COMMERCE BANK LTD.** — KATHMANDU
+- **NEPAL INVESTMENT BANK LTD.** — KATHMANDU
+- **NEPAL RASTRA BANK** — KATHMANDU
+- **NEPAL SBI BANK LTD., KATHMANDU** — KATHMANDU
+- **NIC ASIA BANK LIMITED** — KATHMANDU
+- **NMB BANK LTD** — KATHMANDU
+- **PRABHU BANK LTD** — KATHMANDU
+- **PRIME COMMERCIAL BANK LTD** — KATHMANDU
+- **RASTRIYA BANIJYA BANK** — KATHMANDU
+- **SAMSUNG NEPAL SERVICES PRIVATE LIMITED** — KATHMANDU
+- **SANIMA BANK LIMITED** — KATHMANDU
+- **SIDDHARTHA BANK LIMITED** — KATHMANDU
+- **STANDARD CHARTERED BANK NEPAL LIMITED** — KATHMANDU
+- **SUNRISE BANK LIMITED** — KATHMANDU
+- **TOURISM DEVELOPMENT BANK LTD.** — KATHMANDU

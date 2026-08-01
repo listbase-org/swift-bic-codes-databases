@@ -1,0 +1,86 @@
+# Costa Rica — SWIFT/BIC Codes Database
+
+38 records for **Costa Rica** (CR).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Costa Rica only) | [listbase.org](https://listbase.org/en/finance/cr-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| CR | BSNJCRSJ | BANCO BAC SAN JOSE | SAN JOSE |  |
+| CR | CCIOCRSJBBI | BANCO BCT S.A. | SAN JOSE | (FOREIGN EXCHANGE DEPARTMENT) |
+| CR | CCIOCRSJ | BANCO BCT S.A. | SAN JOSE |  |
+| CR | KTAYCRSJ | BANCO CATHAY DE COSTA RICA, S.A. | SAN JOSE |  |
+| CR | BCCRCRSJ | BANCO CENTRAL DE COSTA RICA | SAN JOSE |  |
+| CR | BCACCRS1 | BANCO CREDITO AGRICOLA DE CARTAGO | CARTAGO |  |
+| CR | BCACCRSJ | BANCO CREDITO AGRICOLA DE CARTAGO | SAN JOSE |  |
+| CR | BXBACRSJDP1 | BANCO DAVIVIENDA (COSTA RICA), S.A. | SAN JOSE | (TRADING ADM) |
+| CR | BXBACRSJDPR | BANCO DAVIVIENDA (COSTA RICA), S.A. | SAN JOSE | (TRADING) |
+| CR | BXBACRSJ | BANCO DAVIVIENDA (COSTA RICA), S.A. | SAN JOSE |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 38 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'CR';
+```
+
+## Stats
+
+- **38** records
+- Country: **Costa Rica** (CR)
+
+## Browse & Download
+
+📊 **[Download Costa Rica data as Excel/CSV/PDF](https://listbase.org/en/finance/cr-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (34)
+
+- **BANCO BAC SAN JOSE** — SAN JOSE
+- **BANCO BCT S.A.** — SAN JOSE
+- **BANCO CATHAY DE COSTA RICA, S.A.** — SAN JOSE
+- **BANCO CENTRAL DE COSTA RICA** — SAN JOSE
+- **BANCO CREDITO AGRICOLA DE CARTAGO** — CARTAGO
+- **BANCO CREDITO AGRICOLA DE CARTAGO** — SAN JOSE
+- **BANCO DAVIVIENDA (COSTA RICA), S.A.** — SAN JOSE
+- **BANCO DE COSTA RICA** — SAN JOSE
+- **BANCO DEL ISTMO (COSTA RICA) S.A.** — SAN JOSE
+- **BANCO GENERAL (COSTA RICA), S.A.** — SAN JOSE
+- **BANCO IMPROSA, S.A.** — SAN JOSE
+- **BANCO INTERNACIONAL DE EXPORTACION S.A.** — SAN JOSE
+- **BANCO LAFISE S.A.** — SAN JOSE
+- **BANCO NACIONAL DE COSTA RICA** — SAN JOSE
+- **BANCO POPULAR Y DE DESARROLLO COMUNAL** — SAN JOSE
+- **BANCO PROMERICA** — SAN JOSE
+- **BASS AMERICAS S.A.** — HEREDIA
+- **BATCCA PARK INVERSIONES INMOBILIARIAS, S.A.** — HEREDIA
+- **BATCCA SERVICIOS S.A.** — HEREDIA
+- **BCT VALORES PUESTO DE BOLSA SA** — SAN JOSE
+- **BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL COSTA RICA** — SAN JOAQUIN
+- **CENTRAL DE VALORES, S.A. (CEVAL)** — SAN JOSE
+- **COMPANIA FINANCIERA DE LONDRES LTDA.** — SAN JOSE
+- **COOPENAE** — SAN JOSE
+- **COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS** — SAN JOSE
+- **CORPORACION FRANCO-AMERICANA DE FINANZAS(COSTA RICA) S.A.** — SAN JOSE
+- **FINANCIERA G AND T CONTINENTAL COSTA RICA S.A.** — SAN JOSE
+- **FITCH COSTA RICA CALIFICADORA DE RIESGO S.A.** — SAN JOSE
+- **GRUPO MUTUAL ALAJUELA-LA VIVIENDA DE AHORRO Y PRESTAMO** — ALAJUELA
+- **INSTITUTO COSTARRICENSE DE ELECTRICIDAD** — SAN JOSE
+- **INSTITUTO NACIONAL DE SEGUROS** — SAN JOSE
+- **PRIVAL BANK (COSTA RICA) S.A.** — SAN PEDRO
+- **SCOTIABANK DE COSTA RICA** — SAN JOSE
+- **THE BANK OF NOVA SCOTIA (COSTA RICA) S.A. (FORMERLY BANCO CITIBANK DE COSTA RICA S.A.)** — SAN JOSE

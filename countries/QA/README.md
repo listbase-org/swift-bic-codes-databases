@@ -1,0 +1,110 @@
+# Qatar — SWIFT/BIC Codes Database
+
+82 records for **Qatar** (QA).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Qatar only) | [listbase.org](https://listbase.org/en/finance/qa-swift-codes/) |
+
+## Preview
+
+| country_code | swift_code | bank | city | branch |
+| --- | --- | --- | --- | --- |
+| QA | ABDIQAQA | ABU DHABI ISLAMIC BANK | DOHA |  |
+| QA | ABQQQAQAAIR | AHLI BANK QSC | DOHA | (AIRPORT BRANCH) |
+| QA | ABQQQAQADNB | AHLI BANK QSC | DOHA | (DOHA NAVAL BASE BRANCH) |
+| QA | ABQQQAQA | AHLI BANK QSC | DOHA | (MAIN BRANCH) |
+| QA | ABQQQAQAMER | AHLI BANK QSC | DOHA | (MERGHAB BRANCH) |
+| QA | AFEWQAQA | AL DAR FOR EXCHANGE WORKS | DOHA |  |
+| QA | KLJIQAQA | AL KHALIJ COMMERCIAL BANK | DOHA |  |
+| QA | ALZAQAQA | AL ZAMAN EXCHANGE W.L.L | DOHA |  |
+| QA | AFXQQAQA | ALFARDAN EXCHANGE LLC | DOHA |  |
+| QA | AEXCQAQA | ALJAZEERA EXCHANGE COMPANY | DOHA |  |
+| ... | ... | ... | ... | ... |
+
+*Showing 10 of 82 records*
+
+## Schema
+
+```sql
+SELECT * FROM swift_codes WHERE country_code = 'QA';
+```
+
+## Stats
+
+- **82** records
+- Country: **Qatar** (QA)
+
+## Browse & Download
+
+📊 **[Download Qatar data as Excel/CSV/PDF](https://listbase.org/en/finance/qa-swift-codes/)**
+
+---
+
+Part of [SWIFT/BIC Codes Database](https://github.com/listbase-org/swift-bic-codes-databases) — 112,887 records across 232 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (58)
+
+- **ABU DHABI ISLAMIC BANK** — DOHA
+- **AHLI BANK QSC** — DOHA
+- **AL DAR FOR EXCHANGE WORKS** — DOHA
+- **AL KHALIJ COMMERCIAL BANK** — DOHA
+- **AL ZAMAN EXCHANGE W.L.L** — DOHA
+- **ALFARDAN EXCHANGE LLC** — DOHA
+- **ALJAZEERA EXCHANGE COMPANY** — DOHA
+- **ARAB BANK PLC** — DOHA
+- **ARAB JORDAN INVESTMENT BANK (QATAR) LLC** — DOHA
+- **BANK AUDI LLC** — DOHA
+- **BARWA BANK** — DOHA
+- **BLOM BANK QATAR LLC** — DOHA
+- **BNP PARIBAS** — DOHA
+- **BNP PARIBAS, DOHA** — DOHA
+- **BOC LTD QATAR FINANCIAL CENTRE BRANCH WEST BAY** — DOHA
+- **CITIBANK N.A.** — DOHA
+- **CITY EXCHANGE CO. W.L.L** — DOHA
+- **DLALA BROKERAGE LLC** — DOHA
+- **DOHA BANK** — DOHA
+- **DOHA BANK** — DUKHAN
+- **DOHA BANK** — UMM SAID
+- **DOHA SECURITIES MARKET** — DOHA
+- **FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) - QFC BRANCH** — DOHA
+- **GULF INVESTMENT GROUP** — DOHA
+- **GULF INVESTMENTS GROUP** — DOHA
+- **HSBC BANK MIDDLE EAST LIMITED** — DOHA
+- **ICICI BANK LIMITED (QFC BRANCH)** — DOHA
+- **INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED** — DOHA
+- **INTERNATIONAL BANK OF QATAR (Q.S.C.)** — DOHA
+- **INTERNATIONAL FINANCIAL SECURITIES CO.** — DOHA
+- **ISLAMIC FINANCIAL SECURITIES COMPANY** — DOHA
+- **LARI EXCHANGE COMPANY QATAR** — DOHA
+- **MASHREQ BANK** — DOHA
+- **MASRAF AL RAYAN** — DOHA
+- **MINISTRY OF FINANCE** — DOHA
+- **QATAR CENTRAL BANK** — DOHA
+- **QATAR DEVELOPMENT BANK** — DOHA
+- **QATAR FIRST INVESTMENT BANK** — DOHA
+- **QATAR FOUNDATION** — DOHA
+- **QATAR INTERNATIONAL ISLAMIC BANK** — DOHA
+- **QATAR INVESTMENT AUTHORITY** — DOHA
+- **QATAR ISLAMIC BANK** — DOHA
+- **QATAR NATIONAL BANK** — DOHA
+- **QATAR PETROLEUM FOR THE SALE OF PETROLEUM PRODUCTS COMPANY LTD** — DOHA
+- **QATAR PETROLEUM** — DOHA
+- **QATAR SECURITIES COMPANY** — DOHA
+- **QATARGAS OPERATING CO LTD** — DOHA
+- **QINVEST LLC** — DOHA
+- **QNB FINANCIAL SERVICES** — DOHA
+- **RASGAS COMPANY LIMITED** — DOHA
+- **SAMBA FINANCIAL GROUP** — DOHA
+- **STANDARD CHARTERED BANK** — DOHA
+- **TASWEEQ** — DOHA
+- **THE COMMERCIAL BANK (Q.S.C)** — DOHA
+- **THE GROUP SECURITIES** — DOHA
+- **UNION NATIONAL BANK-QATAR** — DOHA
+- **UNITED BANK LIMITED, DOHA** — DOHA
+- **UNITED BANK LTD** — DOHA
